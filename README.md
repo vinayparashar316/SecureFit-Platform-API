@@ -126,12 +126,3 @@ mvn spring-boot:run
 
 ---
 
-## 👨‍💻 Contact
-- **Developer:** Hriday Sharma  
-- **Email:** kshriday@gmail.com  
-- **LinkedIn:** [hriday-sharma](https://www.linkedin.com/in/hriday-sharma-356056233/)  
-
----
-
-## 📄 License
-Apache License 2.0
